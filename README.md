@@ -1,3 +1,4 @@
-# My Awesome Book
+# RallyDataJunkie Review - Rally Mexico, 2018
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+A graphical review of the WRC 2018 Rally Mexico.
+
