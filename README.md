@@ -2,3 +2,6 @@
 
 A graphical review of the WRC 2018 Rally Mexico.
 
+![](images/imgTest.png)
+
+
